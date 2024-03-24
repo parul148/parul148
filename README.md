@@ -19,7 +19,7 @@ I'm a Graduate Student living in Jaipur, India. Outside Tech, I love to read, en
 
 - ⚡ Fun fact **I am funny😅**
 
-<h3 align="left">📫 How to reach me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//parul-mehra-7a3b4a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/parul-mehra-7a3b4a1b1" height="30" width="40" /></a>
 
