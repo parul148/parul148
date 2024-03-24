@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">, I'm Parul Mehra</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-Parul Mehra.jpg
+
 <p align="left"> <img src="Parul Mehra.jpg" alt="ashutosh-pmishra" /> </p>
 
 <h2> About Parul⚡:</h2>
