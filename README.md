@@ -8,7 +8,7 @@
 
 <h2> About Parul⚡:</h2>
 
-I'm a Graduate Student living in Jaipur, India. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Jaipur, drop an email and let's catch-up over Coffee!
+I'm a Graduate Student. Outside Tech, I love to read, enjoy music and explore nature outdoors. 
 - 🌱 I’m currently learning **Power BI**
 
 - 🤝 I’m looking for help with **Data Modeling**
