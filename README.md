@@ -20,8 +20,6 @@ I'm a Graduate Student. Outside Tech, I love to read, enjoy music and explore na
 <a href="mailto:parulm604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="parulm604@gmail.com">
 </a>
-
-<p align="left">
 <a href="https://linkedin.com/in//parul-mehra-7a3b4a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/parul-mehra-7a3b4a1b1" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
