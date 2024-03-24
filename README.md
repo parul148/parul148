@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">, I'm Parul Mehra</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-![Uploading Parul Mehra.jpg…](![Parul Mehra.jpg](https://github.com/parul148/parul148/assets/115182864/d7344512-0354-4c1f-9d7c-a587a59d3e02)
-)
 
 <img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAGAaIxV1DE/covaWOoLu7YMxRgl-uOokA/edit">
 
