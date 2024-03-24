@@ -27,7 +27,7 @@ I'm a Graduate Student. Outside Tech, I love to read, enjoy music and explore na
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parul148&show_icons=true&locale=en&layout=compact" alt="parul148" /></p>
 <h2>👀 Stats</h2>
-<p align="center">
+<p align="left">
   <b>GitHub Stats:</b> <br/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul148&" alt="parul148" /></p>
